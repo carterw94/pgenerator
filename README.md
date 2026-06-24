@@ -38,8 +38,6 @@ sudo apt install xclip
 python pgenerator.py
 ```
 
-That's it. The script walks you through the options interactively:
-
 | Prompt | Default | Description |
 |---|---|---|
 | Minimum length | 16 | Shortest acceptable password |
